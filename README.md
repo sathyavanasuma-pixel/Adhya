@@ -1,2 +1,2 @@
 # Adhya
-rep to terst
+rep to test
